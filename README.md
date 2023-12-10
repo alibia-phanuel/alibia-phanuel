@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @alibia-phanuel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-alibia-phanuel/alibia-phanuel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Salut, je m'appelle @alibia-phanuel
+👀 Je suis intéressé par ... web et le mobil
+🌱 J'apprends actuellement... réagir et réagir natif
+💞️ Je cherche à collaborer sur... des projet du web et mobil
+📫 Comment me joindre... phanuel.alibia@gmail.com
