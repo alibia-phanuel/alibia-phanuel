@@ -1,6 +1,6 @@
 <h1 align="center">Salut 👋, je m'appel  phanuel arsene</h1>
 <h3 align="center">Je suis passionné par le développement informatique.Le frontend d'application web et bientôt mobile sont mes spécialité</h3>
-<img align="center" alt ="coding" width="400" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif">
+<img align="center" alt ="coding" width="800" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/media/9a946a4bf36643b0b9c7ece0eb478f83.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alibia-phanuel&label=Profile%20views&color=0e75b6&style=flat" alt="alibia-phanuel" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alibia-phanuel" alt="alibia-phanuel" /></a> </p>
